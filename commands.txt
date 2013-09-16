@@ -1,1 +1,1 @@
-git init - инициализация гита
+i changed everything
